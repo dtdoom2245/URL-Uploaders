@@ -13,6 +13,12 @@ Telegram RoBot to Upload Links.
 
 👉 Upload Mediafire, Zippyshare, Hxfile, Anonfiles, Antfiles URL using LK21
 
+## Deploying
+
+### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thantzinmyothant1/URL-Uploaders)
+
+
 **For Devs**:
 
 👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
